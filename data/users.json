@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Magaly",
+        "apellido": "Bautista",
+        "telefono": 777777777
+    },
+    {
+        "nombre": "Karen",
+        "apellido": "Duran",
+        "telefono": 771222222
+    },
+    {
+        "nombre": "Uriel",
+        "apellido": "Jaén",
+        "telefono": 771222233
+    },
+    {
+        "nombre": "Juan Arturo",
+        "apellido": "Paredes",
+        "telefono": 771222244
+    }
+
+]
